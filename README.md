@@ -2,14 +2,14 @@
 ---
 
 ```markdown
-# 📊 YouTube Analytics Dashboard
+#  YouTube Analytics Dashboard
 
 A data engineering project that simulates a YouTube analytics pipeline.  
 It demonstrates ETL (Extract → Transform → Load), model training, and an interactive Streamlit dashboard for visualizing video performance metrics.
 
 ---
 
-## 🚀 Features
+##  Features
 - **Extract**: Generates dummy YouTube video data (or fetches via API if configured).
 - **Transform**: Cleans and processes raw CSVs into structured datasets.
 - **Load**: Saves processed data into the `data/processed/` folder.
@@ -19,7 +19,7 @@ It demonstrates ETL (Extract → Transform → Load), model training, and an int
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ```
 YouTube_Analytics_Dashboard/
 │
@@ -53,10 +53,10 @@ YouTube_Analytics_Dashboard/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/YouTube_Analytics_Dashboard.git
+   git clone https://github.com/divya-09nimbalkar/YouTube_Analytics_Dashboard.git
    cd YouTube_Analytics_Dashboard
    ```
 
@@ -67,7 +67,7 @@ YouTube_Analytics_Dashboard/
 
 ---
 
-## 🛠️ Usage
+##  Usage
 
 ### Step 1: Extract dummy data
 ```bash
@@ -96,7 +96,7 @@ Opens the interactive dashboard at `http://localhost:8501`.
 
 ---
 
-## 📓 Jupyter Notebook
+##  Jupyter Notebook
 A demo notebook is included in `notebooks/pipeline_demo.ipynb` to run the full pipeline interactively:
 - Extract dummy data
 - Transform and save processed CSV
@@ -106,14 +106,14 @@ A demo notebook is included in `notebooks/pipeline_demo.ipynb` to run the full p
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 - Integrate with **YouTube Data API v3** for real channel analytics.
 - Add more advanced ML models (e.g., engagement prediction).
 - Expand dashboard with subscriber growth, watch time, and trending analysis.
 
 ---
 
-## 🏷️ License
+##  License
 This project is for educational purposes.  
 Feel free to fork and adapt it for your own use.
 ```
