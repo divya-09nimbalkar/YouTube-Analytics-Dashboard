@@ -10,12 +10,12 @@ It demonstrates ETL (Extract → Transform → Load), model training, and an int
 ---
 
 ##  Features
-- **Extract**: Generates dummy YouTube video data (or fetches via API if configured).
-- **Transform**: Cleans and processes raw CSVs into structured datasets.
-- **Load**: Saves processed data into the `data/processed/` folder.
-- **Train**: Builds a simple regression model to predict video engagement.
-- **Predict**: Runs predictions on processed data.
-- **Dashboard**: Interactive Streamlit app with charts for views, likes, and comments.
+- Extract: Generates dummy YouTube video data (or fetches via API if configured).
+- Transform: Cleans and processes raw CSVs into structured datasets.
+- Load: Saves processed data into the `data/processed/` folder.
+- Train: Builds a simple regression model to predict video engagement.
+- Predict: Runs predictions on processed data.
+- Dashboard: Interactive Streamlit app with charts for views, likes, and comments.
 
 ---
 
