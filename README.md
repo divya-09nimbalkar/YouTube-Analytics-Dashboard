@@ -20,7 +20,7 @@ It demonstrates ETL (Extract → Transform → Load), model training, and an int
 ---
 
 ##  Project Structure
-```
+
 YouTube_Analytics_Dashboard/
 │
 ├── data/
